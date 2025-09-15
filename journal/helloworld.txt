@@ -1,3 +1,5 @@
 Week 1 
 
-I asked ChatGPT hwo to sort data
+Week 2 
+
+As i was completing the 30 practice problems, I ran into issues with replacing and pretty much anything the required to munipulate strings. I used AI to help me break down the logic on how it works in pseudocode and generate some easy practice problems. 
