@@ -3,3 +3,9 @@ Week 1
 Week 2 
 
 As i was completing the 30 practice problems, I ran into issues with replacing and pretty much anything the required to munipulate strings. I used AI to help me break down the logic on how it works in pseudocode and generate some easy practice problems. 
+
+Week 3 
+
+Pretty much did that same this as week two. I would try out the problem at first 
+and if i couldn't do it or had too much trouble i would ask chatgpt for help. besides that 
+i only used it for syntax errors. 
